@@ -83,9 +83,8 @@ httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
 ```
-
-
 ## OUTPUT:
+![CLIENT SIDE OUTPUT](/Pictures/Photos/OUTPU1.png)
 
 
 ## RESULT:
