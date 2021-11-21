@@ -84,7 +84,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![CLIENT SIDE OUTPUT](C:\Users\Rithigasri\Pictures\OUTPUT1.png)
+![CLIENT SIDE OUTPUT](Desktop/OUTPUT1.png "CLIENT SIDE OUTPUT")
 
 
 ## RESULT:
