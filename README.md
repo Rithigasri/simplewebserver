@@ -86,10 +86,10 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ## CLIENT SIDE OUTPUT:
-![Output 1](/Images/Output1.png)
+![Output 1](./Images/Output1.png)
 
 ## SERVER SIDE OUTPUT:
-![Output 2](/Images/Output2.png)
+![Output 2](./Images/Output2.png)
 
 
 
